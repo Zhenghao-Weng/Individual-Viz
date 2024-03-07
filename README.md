@@ -19,6 +19,10 @@ Double click `index.html` to run the app.
 ### Go to `src` folder
 
 All the source code are in `App.js` file in `src` folder.\
-No customized components are used as it is a simple page.\
+No customized components are used as it is a simple page.
 
 (I know it is not good to write all the things in one js file. :-()
+
+## Access it on Github
+
+https://github.com/Zhenghao-Weng/Individual-Viz.git
